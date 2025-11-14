@@ -1,0 +1,1 @@
+Aqui está o projeto do E-commerce pt1 e 2,onde tem a finalidade de mostrar a minha evolução de um projeto ao outro.Irei editar o projeto hoje de madrugada para mostrar a atualização do meu e-coomer,Irei lançar o link do meu projeto no vercel.
